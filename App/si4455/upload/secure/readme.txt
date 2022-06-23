@@ -1,0 +1,1 @@
+Commander path: C:\SiliconLabs\SimplicityStudio\v4\developer\adapter_packs\commander\commander.exe

@@ -1,0 +1,74 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"mode_standalone.h": "c",
+			"app.h": "c",
+			"move.h": "c",
+			"mode_corporate.h": "c",
+			"com_defs.h": "c",
+			"task_defs.h": "c",
+			"app_defs.h": "c",
+			"user_config.h": "c",
+			"config.h": "c",
+			"pin_config.h": "c",
+			"si4455_defs.h": "c",
+			"hal-config-app-common.h": "c",
+			"exint.h": "c",
+			"pwr_boot.h": "c",
+			"limits": "c",
+			"cfgdb.h": "c",
+			"sec_counter.h": "c",
+			"htpa_defs.h": "c",
+			"safety.h": "c",
+			"stdio.h": "c",
+			"indicate.h": "c",
+			"core_cm33.h": "c",
+			"i2c.h": "c",
+			"stdbool.h": "c",
+			"com.h": "c",
+			"ezradio_plugin_manager.h": "c",
+			"ezradio_hal.h": "c",
+			"ecode.h": "c",
+			"mode_sys.h": "c",
+			"temperature.h": "c",
+			"ezradio_api_lib_add.h": "c",
+			"ezradio_api_lib.h": "c",
+			"rf.h": "c",
+			"type_traits": "c",
+			"em_eusart.h": "c",
+			"ble_cmd.h": "c",
+			"movement.h": "c",
+			"em2lock.h": "c",
+			"ats_uart.h": "c",
+			"ats_cmd.h": "c",
+			"ats.h": "c",
+			"softtimer.h": "c",
+			"htpa.h": "c",
+			"ptc.h": "c",
+			"i2cspm.h": "c",
+			"dmadrv.h": "c"
+		},
+		"actionButtons": {
+			"defaultColor": "white",
+			"reloadButton": "Reload",
+			"commands": [
+				{
+					"name": "Dir",
+					"command": "dir",
+					"color": "white"
+				},
+
+				{
+					"name": "Check Tree",
+					"color": "White",
+					"command": "tree"
+				}
+			]
+		}
+	}
+}

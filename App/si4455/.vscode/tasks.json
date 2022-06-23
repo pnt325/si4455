@@ -1,0 +1,17 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build elpro-sensor512",
+            "type": "shell",
+            "command": "C:/SiliconLabs/SimplicityStudio/v4/developer/scripting/runScript.sh -data C:/Users/phatnt/SimplicityStudio/v4_workspace D:/Software/Embedded/SS5_headless_build_AN1121SW/an1121_headless_builds/PythonScripts/BuildExistingProject_v2.py elpro-sensor512 -cfg \"GNU ARM v7.2.1 - Debug\"",
+            "problemMatcher": [],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}

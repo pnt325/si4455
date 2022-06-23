@@ -1,0 +1,11 @@
+eoe 1
+device EFR32BG22CXXXF512
+connect s
+r
+h
+loadbin bootloader-storage-internal-single-512k.bin, 0x00000000
+loadbin elpro-sensor512.bin, 0x00006000
+loadbin sensor_config.bin, 0x0FE00000
+r
+g
+qc

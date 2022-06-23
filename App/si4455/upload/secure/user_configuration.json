@@ -1,0 +1,9 @@
+{
+   "mcu_flags": {
+       "SECURE_BOOT_ENABLE": true,
+       "SECURE_BOOT_VERIFY_CERTIFICATE": false,
+       "SECURE_BOOT_ANTI_ROLLBACK": true,
+       "SECURE_BOOT_PAGE_LOCK_NARROW": false,
+       "SECURE_BOOT_PAGE_LOCK_FULL": true
+   }
+}
